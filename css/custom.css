@@ -1,0 +1,55 @@
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.banner img{
+  height: 150px;
+  width: 100%;
+}
+.banner-text{
+	color: #1BAFDD;
+margin-left: 319px;
+margin-top: 1px;
+font-size: 40px;
+font-family: italic;
+
+}
+.a1{
+float: left;
+display: inline;
+margin-right: 200px;
+}
+.a2{
+float: left;
+display: inline;
+margin-right: 52px;
+}
+.a3{
+float: left;
+display: inline;
+}
+
+
+li{
+  list-style-type: square;
+}
+a{
+  text-decoration: none;
+}
+
+
+
+ .fixed{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+   left: 0;
+   background: #242729;
+   color: #fff;
+   text-align: center;
+    
+}
+
+
+
